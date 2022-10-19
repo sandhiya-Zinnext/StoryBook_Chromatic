@@ -1,0 +1,19 @@
+.znxt-logo {
+    display: inline-grid;
+    grid-template-columns: 50px auto;
+
+    svg {
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+        align-self: stretch;
+        justify-content: stretch;
+    }
+
+    .znxt-logo-text {
+        font-family: Roboto;
+        font-size: 57px;
+        font-weight: 500;
+        color: #30323a;
+        line-height: normal;
+    }
+}

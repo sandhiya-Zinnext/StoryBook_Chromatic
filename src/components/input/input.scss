@@ -1,0 +1,33 @@
+.znxt-inp-con {
+    .znxt-input {
+        width: 100%;
+        box-sizing: border-box;
+        background: #ffffff;
+        border: 1px solid #949494;
+        border-radius: 6px;
+        padding-left: 12px;
+        color: #000000;
+    }
+
+    .znxt-input-small {
+        height: 36px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: 0.0125em;
+    }
+
+    .znxt-input-medium {
+        height: 40px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .znxt-input-large {
+        height: 54px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+    }
+}

@@ -1,0 +1,44 @@
+.znxt-button {
+    width: 100%;
+    border-radius: 6px;
+    border: none;
+    font-style: normal;
+    text-align: center;
+    cursor: pointer;
+}
+
+.znxt-button-small {
+    height: 35px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.0125em;
+}
+
+.znxt-button-medium {
+    height: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.znxt-button-large {
+    height: 50px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.znxt-button-primary {
+    color: #ffffff;
+    background-color: #1f1680;
+}
+.znxt-button-secondary {
+    color: #ffffff;
+    background-color: #86838c;
+}
+
+.znxt-button:hover {
+    opacity: 95%;
+    user-select: none;
+}
